@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with REACT
 - 💬 Ask me about PYTHON, GIT, Cyber security
-- 📫 How to reach me: https://twitter.com/beicomillan
+- 📫 How to reach me: https://albertomillan.co/
 - ⚡ Fun fact: FILM MAKER
 
