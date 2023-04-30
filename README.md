@@ -1,12 +1,6 @@
-### Hi there 👋
+###Hi there 
+##I'm a freelance developer who loves working on FX projects. I'm currently learning FX and looking to collaborate on Python-based applications. I'm also interested in REACT and Java, so if you have any tips or resources to share, please let me know. I have experience in PYTHON, GIT, and Cyber security, and I'm always happy to answer questions about these topics. Fun fact: I'm also a FILM MAKER in my spare time. 😎
 
 
 
-
-- 🔭 I’m currently working on  freelancer.
-- 🌱 I’m currently learning Astro
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with REACT and Java
-- 💬 Ask me about PYTHON, GIT, Cyber security
-- ⚡ Fun fact: FILM MAKER
 
