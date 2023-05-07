@@ -1,4 +1,4 @@
-#### Hi there 
+#### Hi there 👋
 
 ##### I'm a **freelance developer** who loves working on **FX projects**. 
 
