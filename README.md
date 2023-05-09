@@ -10,6 +10,9 @@
 
 ##### Fun fact: I'm also a **film maker**{color:red} in my spare time. 😎
 
+Este es un texto en **rojo**{color:red}
+
+
 
 
 
