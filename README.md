@@ -8,6 +8,8 @@
 
 ##### I have experience in **Python**, **Git**, and **Cyber security**, and I'm always happy to answer questions about these topics.
 
+#### IA 900 - AZ 900 - DATA 900 AZURE.
+
 ##### Fun fact: I'm also a **film maker** in my spare time. 😎
 
 
