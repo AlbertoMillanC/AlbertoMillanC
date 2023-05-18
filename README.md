@@ -6,6 +6,8 @@
 #### IA 900 - AZ 900 - Dp 900 AZURE **MICROSOTF**.
 ##### Fun fact: Fun I´m also a **writer** of scripts and **technology articles**. 😎
 
+web: https://lucestextoyaccion.online/ 
+
 
 
 
