@@ -6,7 +6,7 @@
 ##### IA 900 - AZ 900 - Dp 900 AZURE **MICROSOTF**.
 ##### Fun fact: Fun I´m also a **writer** of scripts and **technology articles**. 😎
 
-#### Web: **https://lucestextoyaccion.online/** 
+####  Experience the captivating fusion of human creativity and artificial intelligence at **https://lucestextoyaccion.online/**, where the realms of AI and art intertwine to inspire and push the boundaries of imagination.
 
 
 
