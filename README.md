@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Currently working for CasaToner as a Staff SysAdmin
+#### Currently working for **CasaToner** as a Staff SysAdmin
 ##### I'm a **SysAdmin** and  **developer** who loves working on **open-source projects**. 
 ##### I'm currently learning **Devops** and looking to collaborate on **Python-based applications**.
 ##### I'm also interested in **KUBERNETES** and **Java**, so if you have any tips or resources to share, please let me know. 
