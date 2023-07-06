@@ -1,12 +1,18 @@
-### Hi there 👋
- Currently working for **CasaToner** as a Staff SysAdmin
- I'm a **SysAdmin** and  **developer** who loves working on **open-source projects**. 
-##### I'm currently learning **Devops** and looking to collaborate on **Python-based applications**.
-##### I'm also interested in **KUBERNETES** and **Java**, so if you have any tips or resources to share, please let me know. 
-##### I have experience in **Python**, **Git**, and **SysAdmin**, and I'm always happy to answer questions about these topics.
-##### Certification: IA 900 - AZ 900 - Dp 900 AZURE **MICROSOTF** and  Oracle backend with Java
-##### Fun fact: Fun I´m also a **writer** of scripts and **technology articles**. 😎
-####  Experience the captivating fusion of human creativity and artificial intelligence at **https://lucestextoyaccion.online/**, where the realms of AI and art intertwine to inspire and push the boundaries of imagination.
+##Hello, fellow coder! 👋
+I'm a SysAdmin and developer passionate about open-source projects. Currently, I'm working as a Staff SysAdmin at CasaToner.
+
+Skills & Interests
+Languages: Python, Java
+Technologies: Git, Kubernetes
+Certifications: IA 900, AZ 900, DP 900 (Microsoft Azure), Oracle backend with Java
+Current Learning: DevOps
+Looking to Collaborate On: Python-based applications
+I'm always eager to learn new things and engage with the community, so if you have any tips or resources on Kubernetes or Java, feel free to share them with me. I'm also happy to answer questions about my areas of expertise.
+
+Fun Facts 😎
+I'm a writer for scripts and technology articles.
+I contribute to an AI and art project called Luz, Estilo y Acción, which explores the intersection of human creativity and artificial intelligence. You can check it out at https://lucestextoyaccion.online/.
+Feel free to connect with me and let's collaborate on some exciting projects!
 
 
 
