@@ -3,7 +3,7 @@ I'm a SysAdmin and developer passionate about open-source projects. Currently, I
 #### Skills & Interests
 **Languages**: Python, Java
 
-**Technologies** "": Git, Kubernetes
+**Technologies**: Git, Kubernetes
 Certifications**: IA 900, AZ 900, DP 900 (Microsoft Azure), Oracle backend with Java
 **Current Learning**: DevOps
 **Looking to Collaborate On**: Python-based applications
