@@ -1,7 +1,7 @@
 ## Hello, fellow coder! 👋
 I'm a SysAdmin and developer passionate about open-source projects. Currently, I'm working as a Staff SysAdmin at CasaToner.
 #### Skills & Interests
-**Languages**: Python, Java and Js.
+**Languages**: Python, Java and Js. 
 
 **Technologies**: Git, Kubernetes
 Certifications**: IA 900, AZ 900, DP 900 (Microsoft Azure), Oracle backend with Java
