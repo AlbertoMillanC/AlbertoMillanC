@@ -11,10 +11,6 @@ I'm always eager to learn new things and engage with the community, so if you ha
 Fun Facts 😎
 I'm a writer for scripts and technology articles.
 I contribute to an AI and art project called "Luces,Texto y Acción", which explores the intersection of human creativity and artificial intelligence. 
-#### You can check it out at 
-#### **https://lucestextoyaccion.online/.**
-###Feel free to connect with me and let's collaborate on some exciting projects!
-
 
 
 
